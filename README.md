@@ -1,3 +1,2 @@
 # Chadan-Huggup
-This is like a blog site or a hub for technology related information
-Shared code and knowledge for others
+Blog type of site. Created for school project - Transformation of Crime using Technology
